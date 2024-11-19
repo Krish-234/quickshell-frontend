@@ -1,0 +1,52 @@
+.app_navbar-container{
+    display: flex;
+    align-items: center;
+    height: 4rem;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+}
+
+.app_navbar-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 10px;
+    height: 2rem;
+    margin-left: 2rem;
+    border-radius: 0.3rem;
+    border: none;
+    cursor: pointer;
+}
+
+.app_navbar-btn img{
+    margin-right: 4px;
+}
+
+.navbar_dropdown-menu{
+    position: absolute;
+    background-color: rgb(232, 239, 239);
+    border-radius: 1rem;
+    left: 2rem;
+    top: 3.5rem;
+    height: 6rem;
+    width: 15rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 1rem;
+    z-index: 100;
+}
+
+.navbar_dropdown-data{
+    color: hsl(0, 0%, 43%);
+    
+}
+.navbar_dropdown-data span{
+    margin-right: 2rem;
+}
+
+.navbar_dropdown-data select{
+    padding: 4px;
+}

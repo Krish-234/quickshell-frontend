@@ -1,0 +1,56 @@
+.app_dashboard-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 5rem;
+    
+}
+
+.group-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 4rem;
+}
+
+.sort_by-user{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    gap: 9.8rem;
+    cursor: pointer;
+}
+
+.sort_by-user div:last-child img{
+    margin-right: 5px;
+}
+
+.sort_by-user-profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.margin-right{
+    margin-right: 5px;
+}
+
+.app_Task-sidebar{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.dash-container{
+    min-width: 300px;
+}
+
+.flex_end{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.flex_end img{
+    cursor: pointer;
+}
