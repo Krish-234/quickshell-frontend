@@ -37,7 +37,7 @@ const Adminpage = ({ selectedGroup, selectedOrder }) => {
   }, []);
 
   if (loading) {
-    return <Loader />; // Display the spinner while loading
+    return <Loader />;
   }
 
   if (error) {
