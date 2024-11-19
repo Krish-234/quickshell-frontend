@@ -1,5 +1,4 @@
 import Display from "../assets/icons_FEtask/Display.svg";
-import Down from "../assets/icons_FEtask/Down.svg";
 import todo from "../assets/icons_FEtask/To-do.svg";
 import inprogress from "../assets/icons_FEtask/in-progress.svg"
 import backlog from "../assets/icons_FEtask/Backlog.svg"
