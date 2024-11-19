@@ -1,6 +1,7 @@
 import Display from "../assets/icons_FEtask/Display.svg";
 import todo from "../assets/icons_FEtask/To-do.svg";
 import inprogress from "../assets/icons_FEtask/in-progress.svg"
+import Down from "../assets/icons_FEtask/down.svg"
 import backlog from "../assets/icons_FEtask/Backlog.svg"
 import done from "../assets/icons_FEtask/Done.svg"
 import cancelled from "../assets/icons_FEtask/Cancelled.svg"
