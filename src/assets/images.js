@@ -3,7 +3,7 @@ import todo from "../assets/icons_FEtask/To-do.svg";
 import inprogress from "../assets/icons_FEtask/in-progress.svg"
 import backlog from "../assets/icons_FEtask/Backlog.svg"
 import done from "../assets/icons_FEtask/Done.svg"
-import cancelled from "../assets/icons_FEtask/cancelled.svg"
+import cancelled from "../assets/icons_FEtask/Cancelled.svg"
 import threeDotMenu from "../assets/icons_FEtask/3 dot menu.svg"
 import urgentGrey from "../assets/icons_FEtask/SVG - Urgent Priority grey.svg";
 import urgentColour  from "../assets/icons_FEtask/SVG - Urgent Priority colour.svg";
